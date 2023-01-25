@@ -1,0 +1,17 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "editor.formatOnType": true,
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+  },
+  "exportall.config.folderListener": [
+    "/src/app/controllers",
+    "/src/app/services",
+    "/src/app/models",
+    "/src/api/middlewares"
+  ]
+}
